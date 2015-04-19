@@ -1,0 +1,19 @@
+{
+    "name": "mindweb/modifier",
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcin Czołnowski",
+            "email": "marcin@czolnowski.net"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "Mindweb\\Modifier\\": "src"
+        }
+    }
+}
